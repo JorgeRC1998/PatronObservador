@@ -10,8 +10,8 @@ namespace EjercicioObserverConsola
     {
         static void Main(string[] args)
         {
-            ObservadorConcreto observador1 = new ObservadorConcreto("observador 1");
-            ObservadorConcreto observador2 = new ObservadorConcreto("observador 2");
+            ObservadorConcreto observador1 = new ObservadorConcreto("observador 1")
+            ObservadorConcreto observador2 = new ObservadorConcreto("observador 2")
             ObservadorConcreto observador3 = new ObservadorConcreto("observador 3");
 
             SujetoConcreto objSuConcreto = new SujetoConcreto();
