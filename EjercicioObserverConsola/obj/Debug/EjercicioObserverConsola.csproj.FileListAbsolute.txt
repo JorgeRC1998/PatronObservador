@@ -1,0 +1,7 @@
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\bin\Debug\EjercicioObserverConsola.exe.config
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\bin\Debug\EjercicioObserverConsola.exe
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\bin\Debug\EjercicioObserverConsola.pdb
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\obj\Debug\EjercicioObserverConsola.csprojAssemblyReference.cache
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\obj\Debug\EjercicioObserverConsola.csproj.CoreCompileInputs.cache
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\obj\Debug\EjercicioObserverConsola.exe
+c:\users\jorge\source\repos\EjercicioObserverConsola\EjercicioObserverConsola\obj\Debug\EjercicioObserverConsola.pdb
